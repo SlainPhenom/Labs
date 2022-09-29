@@ -1,0 +1,184 @@
+
+
+.name{
+    padding:10px;
+  border-radius:10px;
+  margin:0 auto;
+  display: block;
+}
+.name:focus{
+    background-color: #16cec5;
+  border-color: #000;
+}
+.pass{
+    padding:10px;
+  border-radius:10px;
+  margin:0 auto;
+    display: block;
+}
+.pass:focus{
+    background-color: #16cec5;
+  border-color: #000;
+}
+.email{
+    padding:10px;
+  border-radius:10px;
+  margin:0 auto;
+    display: block;
+}
+.email:focus{
+    background-color: #16cec5;
+  border-color: #000;
+}
+.button{
+    appearance:none;
+  -webkit-appearance:none;
+  padding:10px;
+  border:none;
+  background-color:#3F51B5;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:10%;
+  margin:0 auto;
+display: block;
+}
+.button:active{
+    color: black;
+}
+.button:focus{
+    background-color: #16cec5;
+  border-color: #000;
+}
+.ank{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.prob{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.dog{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.ch{
+    margin:0 auto;
+    display: block;
+}
+
+textarea {
+    width:20%;
+    resize: vertical;
+    padding:15px;
+    border-radius:15px;
+    border:0;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+   height:150px;
+   margin:0 auto;
+    display: block;
+  }
+  textarea:focus{
+    background-color: #16cec5;
+    border-color: #000;
+  }
+
+
+body{
+    background-image: url('./1626993877_25-kartinkin-com-p-krasivii-fon-na-zadnii-plan-krasivo-25.jpg');
+}
+.upperdiv {
+    font-size: 7rem;
+    background-image: url('./ulala.jpg');
+    text-align: center;
+    line-height:normal;
+    margin: 0;
+    padding: 0; 
+
+}
+.uppertext{
+    text-align: center;
+    font-style: italic;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.mainpage {
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+    
+
+}
+.mainpage:hover{
+    color:gold
+}
+
+
+
+.history {
+    color: rgb(134, 131, 143);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+    
+
+}
+.history:hover{
+    color:gold
+}
+.culture {
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+}
+.culture:hover{
+    color: gold;
+}
+
+.structure {
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+}
+.structure:hover{
+    color: gold;
+}
+
+.relations{
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+}
+.relations:hover{
+    color:gold
+}
+
+

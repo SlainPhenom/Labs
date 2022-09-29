@@ -1,0 +1,84 @@
+body{
+    background-image: url('./1626993877_25-kartinkin-com-p-krasivii-fon-na-zadnii-plan-krasivo-25.jpg');
+}
+.upperdiv {
+    font-size: 7rem;
+    background-image: url('./ulala.jpg');
+    text-align: center;
+    line-height:normal;
+    margin: 0;
+    padding: 0; 
+
+    
+}
+
+.mainpage {
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+    
+
+}
+.mainpage:hover{
+    color:gold
+}
+
+.history {
+    color: rgb(134, 131, 143);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+    
+
+}
+.history:hover{
+    color:gold
+}
+
+.structure {
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+}
+.structure:hover{
+    color: gold;
+}
+
+.relations{
+    color: rgb(125, 87, 230);
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    padding: 3.5rem;
+    vertical-align: middle;
+}
+.relations:hover{
+    color:gold
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
